@@ -1,16 +1,16 @@
 # Hey, I'm Aaditya 👋
 
-I'm a developer who enjoys building web and mobile applications, working with cloud infrastructure, and experimenting with AI/ML.
+I'm a developer interested in building web and mobile applications, cloud-based systems, and AI/ML projects.
 
-Mostly working with **Python, Django, React, React Native, Node.js and AWS**.
+I mainly work with Python, Django, React, React Native, Node.js, and AWS.
 
-### Tech
+### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,javascript,nodejs,react,reactnative,expo,mysql,mongodb,aws,firebase,docker,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,django,javascript,nodejs,react,reactnative,expo,aws,firebase,mysql,mongodb,tensorflow,docker" />
 </p>
 
-### GitHub
+### GitHub Stats
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.shion.dev/api?username=aadityaa2023&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" />
@@ -21,15 +21,15 @@ Mostly working with **Python, Django, React, React Native, Node.js and AWS**.
   <img src="https://streak-stats.demolab.com/?user=aadityaa2023&theme=github-dark-blue&hide_border=true" />
 </p>
 
-### Contributions
+### Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aadityaa2023/aadityaa2023/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+  <img src="https://raw.githubusercontent.com/aadityaa2023/aadityaa2023/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </p>
 
-### Currently
+### Contribution Snake
 
-Building projects, learning new things, and trying not to break production.
+The snake above is generated automatically from my GitHub contribution graph.
 
 ---
 
