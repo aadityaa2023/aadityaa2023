@@ -1,47 +1,12 @@
-# Hey, I'm Aditya 👋
 
-I'm a developer who enjoys building robust web and mobile applications, cloud-based systems, and exploring AI/ML. 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aadityaa2023&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=aadityaa2023&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aadityaa2023&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-Currently, I spend most of my time working with **Python**, **Django**, **React/React Native**, and **Node.js**, while leveraging **AWS** for cloud infrastructure.
+---
+[![](https://komarev.com/ghpvc/?username=aadityaa2023&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 👨‍💻 What I do
-- **Full-Stack Web**: Crafting APIs and web apps with Django and Node.js, paired with React frontends.
-- **Mobile Apps**: Building cross-platform applications using React Native & Expo.
-- **Cloud & Data**: Setting up infrastructure on AWS and managing databases like MySQL & MongoDB.
-- **AI/ML**: Experimenting and building with TensorFlow.
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,django,nodejs,react,reactnative,expo" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,firebase,mysql,mongodb,tensorflow,docker" />
-</p>
-
-### 📊 Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=aadityaa2023&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aadityaa2023&theme=github_dark&hide_border=true&layout=compact" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=aadityaa2023&theme=github-dark-blue&hide_border=true" />
-</p>
-
-### 🐍 Contributions
-
-<div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadityaa2023/aadityaa2023/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadityaa2023/aadityaa2023/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/aadityaa2023/aadityaa2023/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br />
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aadityaa2023&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
